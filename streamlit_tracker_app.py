@@ -5,14 +5,14 @@ import matplotlib.pyplot as plt
 # Load the pre-saved df_nga.csv file
 @st.cache_data
 def load_data():
-    return pd.read_csv("df_nga.csv")
+    return pd.read_csv("merged_df_nga.csv")
 
-df_nga = load_data()
+merged_df_nga = load_data()
 
 # Display the combined DataFrame in Streamlit
 st.markdown("<h1 style='text-align: center;'>Super Eagles Tracker</h1>", unsafe_allow_html=True)
 st.markdown("<h2 style='text-align: center;'>Top 10 European Leagues</h2>", unsafe_allow_html=True)
-st.dataframe(df_nga)
+st.dataframe(merged_df_nga)
 
 def plot_goals(df):
     # Filter players with Goals > 0
@@ -79,10 +79,10 @@ def plot_goals_assists_matches(df):
 
 # Main app - Display plots for Nigerian players in the combined data
 st.markdown("<h2 style='text-align: center;'>Goals</h2>", unsafe_allow_html=True)
-st.pyplot(plot_goals(df_nga))
+st.pyplot(plot_goals(merged_df_nga))
 
 st.markdown("<h2 style='text-align: center;'>Assists</h2>", unsafe_allow_html=True)
-st.pyplot(plot_assists(df_nga))
+st.pyplot(plot_assists(merged_df_nga))
 
 st.markdown("<h2 style='text-align: center;'>Goals + Assists by Matches</h2>", unsafe_allow_html=True)
-st.pyplot(plot_goals_assists_matches(df_nga))
+st.pyplot(plot_goals_assists_matches(merged_df_nga))
