@@ -1,49 +1,54 @@
 Player,Nation,Position,Squad,Age,Born,Matches_Played,Starts,Minutes,Ninety_Minutes_Played,Goals,Assists,Goals_Assists,Non_Penalty_Goals,Penalties_Made,Penalties_Attempted,Yellow_Cards,Red_Cards,xG,Non_Penalty_xG,xAG,npxG_xAG,Progressive_Carries,Progressive_Passes,Progressive_Passes_Received,Goals_Per_90,Assists_Per_90,Goals_Assists_Per_90,Non_Penalty_Goals_Per_90,Goals_Assists_Penalty_Per_90,xG_Per_90,xAG_Per_90,xG_xAG_Per_90,Non_Penalty_xG_Per_90,npxG_xAG_Per_90,Matches,League
-Ahmed Abdullahi,ng NGA,MF,Gent,20-205,2004,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Belgian Pro League
-Tolu Arokodare,ng NGA,FW,Genk,24-048,2000,20,20,1642,18.2,13,4,17,13,0,1,2,0,16.2,15.4,2.6,18.0,20,20,125,0.71,0.22,0.93,0.71,0.93,0.89,0.14,1.03,0.84,0.99,Matches,Belgian Pro League
-Chukwubuikem Ikwuemesi,ng NGA,FW,OH Leuven,23-158,2001,19,11,1079,12.0,4,0,4,4,0,0,1,0,2.6,2.6,0.7,3.4,16,16,55,0.33,0.0,0.33,0.33,0.33,0.22,0.06,0.28,0.22,0.28,Matches,Belgian Pro League
-Raphael Onyedika,ng NGA,MF,Club Brugge,23-266,2001,16,14,1142,12.7,1,1,2,1,0,0,0,1,0.7,0.7,0.5,1.3,5,52,16,0.08,0.08,0.16,0.08,0.16,0.06,0.04,0.1,0.06,0.1,Matches,Belgian Pro League
-Yira Sor,ng NGA,FW,Genk,24-170,2000,13,5,596,6.6,1,4,5,1,0,0,0,0,2.5,2.5,4.1,6.6,20,17,66,0.15,0.6,0.76,0.15,0.76,0.38,0.62,0.99,0.38,0.99,Matches,Belgian Pro League
-Victor Udoh,ng NGA,"FW,DF",Antwerp,20-084,2004,12,0,88,1.0,0,0,0,0,0,0,0,0,0.2,0.2,0.5,0.7,9,1,14,0.0,0.0,0.0,0.0,0.0,0.27,0.73,1.0,0.27,1.0,Matches,Belgian Pro League
-Alhassan Yusuf,ng NGA,"MF,DF",Antwerp,24-176,2000,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Belgian Pro League
-Kevin Akpoguma,ng NGA,DF,Hoffenheim,29-266,1995,14,11,1016,11.3,0,0,0,0,0,0,3,0,0.0,0.0,0.1,0.1,7,47,8,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.0,0.01,Matches,Bundesliga
-Victor Boniface,ng NGA,FW,Leverkusen,24-018,2000,10,8,658,7.3,6,1,7,6,0,1,1,0,6.5,5.7,1.0,6.7,15,13,37,0.82,0.14,0.96,0.82,0.96,0.89,0.14,1.03,0.78,0.92,Matches,Bundesliga
-Frank Onyeka,ng NGA,MF,Augsburg,27-009,1998,13,12,1099,12.2,0,1,1,0,0,0,3,0,0.5,0.5,0.9,1.4,23,37,32,0.0,0.08,0.08,0.0,0.08,0.04,0.08,0.12,0.04,0.12,Matches,Bundesliga
-Nathan Tella,ng NGA,"MF,FW",Leverkusen,25-189,1999,11,4,424,4.7,0,2,2,0,0,0,0,0,0.6,0.6,0.5,1.0,13,10,54,0.0,0.42,0.42,0.0,0.42,0.12,0.1,0.22,0.12,0.22,Matches,Bundesliga
-Ola Aina,ng NGA,DF,Nott'ham Forest,28-094,1996,20,20,1733,19.3,2,0,2,2,0,0,2,0,0.6,0.6,0.5,1.1,39,68,35,0.1,0.0,0.1,0.1,0.1,0.03,0.03,0.06,0.03,0.06,Matches,Premier League
-Joe Aribo,ng NGA,MF,Southampton,28-173,1996,19,11,1125,12.5,2,0,2,2,0,0,0,0,2.2,2.2,1.3,3.5,25,39,43,0.16,0.0,0.16,0.16,0.16,0.18,0.11,0.28,0.18,0.28,Matches,Premier League
-Taiwo Awoniyi,ng NGA,FW,Nott'ham Forest,27-151,1997,15,2,227,2.5,1,0,1,1,0,0,0,0,1.7,1.7,0.1,1.7,4,4,10,0.4,0.0,0.4,0.4,0.4,0.65,0.03,0.68,0.65,0.68,Matches,Premier League
-Calvin Bassey,ng NGA,DF,Fulham,25-010,1999,19,19,1710,19.0,0,0,0,0,0,0,5,0,0.4,0.4,0.1,0.4,14,60,11,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.02,0.02,0.02,Matches,Premier League
-Alex Iwobi,ng NGA,"FW,MF",Fulham,28-252,1996,20,20,1719,19.1,5,3,8,5,0,0,1,0,3.1,3.1,4.1,7.2,80,123,143,0.26,0.16,0.42,0.26,0.42,0.16,0.22,0.38,0.16,0.38,Matches,Premier League
-Wilfred Ndidi,ng NGA,MF,Leicester City,28-025,1996,15,15,1215,13.5,0,4,4,0,0,0,4,0,1.4,1.4,1.4,2.8,9,37,49,0.0,0.3,0.3,0.0,0.3,0.1,0.1,0.2,0.1,0.2,Matches,Premier League
-Paul Onuachu,ng NGA,FW,Southampton,30-227,1994,10,4,323,3.6,0,0,0,0,0,0,1,0,1.0,1.0,0.2,1.2,3,6,7,0.0,0.0,0.0,0.0,0.0,0.29,0.05,0.33,0.29,0.33,Matches,Premier League
-Frank Onyeka,ng NGA,MF,Brentford,27-009,1998,2,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Premier League
-Chidera Ejuke,ng NGA,"FW,MF",Sevilla,27-008,1998,9,6,543,6.0,1,0,1,1,0,0,0,0,0.7,0.7,1.3,1.9,50,23,61,0.17,0.0,0.17,0.17,0.17,0.11,0.21,0.32,0.11,0.32,Matches,La Liga
-Kelechi Iheanacho,ng NGA,FW,Sevilla,28-099,1996,9,5,400,4.4,0,0,0,0,0,0,0,0,1.5,1.5,0.3,1.8,6,5,17,0.0,0.0,0.0,0.0,0.0,0.33,0.07,0.41,0.33,0.41,Matches,La Liga
-Umar Sadiq,ng NGA,FW,Real Sociedad,27-343,1997,7,2,227,2.5,0,0,0,0,0,0,1,0,0.2,0.2,0.2,0.4,5,5,18,0.0,0.0,0.0,0.0,0.0,0.09,0.06,0.15,0.09,0.15,Matches,La Liga
-Chrisantus Uche,ng NGA,"FW,MF",Getafe,21-236,2003,18,15,1309,14.5,1,0,1,1,0,0,3,0,2.2,2.2,0.5,2.7,25,25,83,0.07,0.0,0.07,0.07,0.07,0.15,0.03,0.19,0.15,0.19,Matches,La Liga
-David Akpan Ankeye,ng NGA,"FW,MF",Genoa,22-331,2002,4,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Serie A
-Samuel Chukwueze,ng NGA,FW,Milan,25-233,1999,17,9,736,8.2,1,0,1,1,0,0,0,0,1.7,1.7,2.2,3.9,37,24,90,0.12,0.0,0.12,0.12,0.12,0.2,0.27,0.47,0.2,0.47,Matches,Serie A
-Fisayo Dele-Bashiru,ng NGA,MF,Lazio,23-339,2001,9,5,390,4.3,2,0,2,2,0,0,0,0,0.6,0.6,0.2,0.8,11,12,29,0.46,0.0,0.46,0.46,0.46,0.11,0.05,0.15,0.11,0.15,Matches,Serie A
-Ademola Lookman,ng NGA,"FW,MF",Atalanta,27-082,1997,14,12,940,10.4,9,4,13,8,1,1,1,0,5.8,5.1,3.9,8.9,64,34,145,0.86,0.38,1.24,0.77,1.15,0.51,0.34,0.85,0.44,0.78,Matches,Serie A
-Maduka Okoye,ng NGA,GK,Udinese,25-135,1999,14,14,1260,14.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Serie A
-Akor Adams,ng NGA,FW,Montpellier,24-347,2000,14,12,985,10.9,3,1,4,3,0,0,2,0,4.2,4.2,1.0,5.2,10,5,40,0.27,0.09,0.37,0.27,0.37,0.38,0.09,0.47,0.38,0.47,Matches,Ligue 1
-Hamzat Ojediran,ng NGA,"MF,FW",Lens,21-057,2003,9,1,300,3.3,1,0,1,1,0,0,2,0,0.4,0.4,0.4,0.9,2,18,1,0.3,0.0,0.3,0.3,0.3,0.14,0.13,0.27,0.14,0.27,Matches,Ligue 1
-Victor Orakpo,ng NGA,FW,Nice,18-210,2006,4,0,36,0.4,0,0,0,0,0,0,0,0,0.3,0.3,0.0,0.3,2,1,4,0.0,0.0,0.0,0.0,0.0,0.81,0.0,0.81,0.81,0.81,Matches,Ligue 1
-Gift Orban,ng NGA,"FW,DF",Lyon,22-177,2002,3,2,186,2.1,2,0,2,2,0,0,1,0,1.2,1.2,0.0,1.2,1,2,12,0.97,0.0,0.97,0.97,0.97,0.59,0.01,0.6,0.59,0.6,Matches,Ligue 1
-Gabriel Osho,ng NGA,DF,Auxerre,26-149,1998,12,12,1003,11.1,1,0,1,1,0,0,1,0,0.7,0.7,0.0,0.7,9,27,1,0.09,0.0,0.09,0.09,0.09,0.07,0.0,0.07,0.07,0.07,Matches,Ligue 1
-Moses Simon,ng NGA,FW,Nantes,29-182,1995,14,14,1180,13.1,4,5,9,2,2,2,1,0,2.9,1.4,2.8,4.1,76,28,111,0.31,0.38,0.69,0.15,0.53,0.22,0.21,0.43,0.1,0.32,Matches,Ligue 1
-Babatunde Akinsola,ng NGA,"MF,FW",AVS Futebol,21-306,2003,13,5,433,4.8,1,1,2,1,0,0,0,0,1.3,1.3,0.5,1.8,14,11,35,0.21,0.21,0.42,0.21,0.42,0.28,0.1,0.37,0.28,0.37,Matches,Portuguese Primeira Liga
-Bruno Onyemaechi,ng NGA,"DF,MF",Boavista,25-282,1999,17,16,1476,16.4,2,0,2,2,0,0,4,0,1.0,1.0,1.0,2.0,22,33,63,0.12,0.0,0.12,0.12,0.12,0.06,0.06,0.12,0.06,0.12,Matches,Portuguese Primeira Liga
-Babajide Akintola,ng NGA,MF,Rizespor,28-363,1996,14,13,1037,11.5,1,3,4,1,0,0,4,0,,,,,,,,0.09,0.26,0.35,0.09,0.35,,,,,,Matches,Turkish Super Lig
-Funsho Bamgboye,ng NGA,MF,Hatayspor,26-001,1999,17,9,847,9.4,1,0,1,1,0,0,3,0,,,,,,,,0.11,0.0,0.11,0.11,0.11,,,,,,Matches,Turkish Super Lig
-Godfrey Bitok,ng NGA,DF,Gaziantep FK,24-141,2000,2,1,115,1.3,0,0,0,0,0,0,0,0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,Turkish Super Lig
-Anthony Dennis,ng NGA,MF,Göztepe,20-203,2004,14,14,1181,13.1,0,1,1,0,0,0,8,1,,,,,,,,0.0,0.08,0.08,0.0,0.08,,,,,,Matches,Turkish Super Lig
-Anthony Nwakaeme,ng NGA,MF,Trabzonspor,35-295,1989,10,6,681,7.6,1,1,2,1,0,0,2,0,,,,,,,,0.13,0.13,0.26,0.13,0.26,,,,,,Matches,Turkish Super Lig
-Gabriel Obekpa,ng NGA,MF,BB Bodrumspor,20-231,2004,3,0,90,1.0,0,0,0,0,0,0,0,0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,Turkish Super Lig
-David Okereke,ng NGA,"FW,MF",Gaziantep FK,27-134,1997,12,10,921,10.2,5,2,7,5,0,0,1,0,,,,,,,,0.49,0.2,0.68,0.49,0.68,,,,,,Matches,Turkish Super Lig
-Jonathan Okoronkwo,ng NGA,FW,Hatayspor,21-119,2003,6,0,96,1.1,0,0,0,0,0,0,1,0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,Turkish Super Lig
-Ibrahim Olawoyin,ng NGA,MF,Rizespor,27-040,1997,16,16,1381,15.3,1,2,3,1,0,0,2,0,,,,,,,,0.07,0.13,0.2,0.07,0.2,,,,,,Matches,Turkish Super Lig
-Kenneth Omeruo,ng NGA,DF,Kasımpaşa,31-085,1993,5,1,162,1.8,0,0,0,0,0,0,1,0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,Turkish Super Lig
-Bright Osayi-Samuel,ng NGA,"DF,MF",Fenerbahçe,27-010,1997,11,10,753,8.4,0,0,0,0,0,0,1,0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,Turkish Super Lig
-Victor Osimhen,ng NGA,FW,Galatasaray,26-012,1998,12,10,840,9.3,10,3,13,7,3,3,2,0,,,,,,,,1.07,0.32,1.39,0.75,1.07,,,,,,Matches,Turkish Super Lig
+Ahmed Abdullahi,ng NGA,FW,Gent,20-251,2004,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,,,,,,,,,,,,,Belgian Pro League
+Tolu Arokodare,ng NGA,FW,Genk,24-094,2000,27,25,2060,22.9,15,5,20,15,0,1,2,0,0.66,0.22,0.87,0.66,0.87,Matches,,,,,,,,,,,,,Belgian Pro League
+Chukwubuikem Ikwuemesi,ng NGA,FW,OH Leuven,23-204,2001,24,14,1398,15.5,4,0,4,4,0,0,2,0,0.26,0.0,0.26,0.26,0.26,Matches,,,,,,,,,,,,,Belgian Pro League
+Raphael Onyedika,ng NGA,MF,Club Brugge,23-312,2001,23,19,1548,17.2,1,1,2,1,0,0,0,1,0.06,0.06,0.12,0.06,0.12,Matches,,,,,,,,,,,,,Belgian Pro League
+Yira Sor,ng NGA,"FW,MF",Genk,24-216,2000,13,5,596,6.6,1,4,5,1,0,0,0,0,0.15,0.6,0.76,0.15,0.76,Matches,,,,,,,,,,,,,Belgian Pro League
+Victor Udoh,ng NGA,FW,Antwerp,20-130,2004,12,0,88,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,,,,,,,,,,,,,Belgian Pro League
+Alhassan Yusuf,ng NGA,MF,Antwerp,24-222,2000,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,,,,,,,,,,,,,Belgian Pro League
+Kevin Akpoguma,ng NGA,DF,Hoffenheim,29-312,1995,22,17,1577,17.5,0,0,0,0,0,0,3,0,0.0,0.0,0.3,0.3,10.0,72,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02,Matches,Bundesliga
+Victor Boniface,ng NGA,FW,Leverkusen,24-064,2000,13,10,786,8.7,7,1,8,7,0,1,2,0,6.7,5.9,1.0,6.9,16.0,18,43.0,0.8,0.11,0.92,0.8,0.92,0.77,0.12,0.89,0.68,0.8,Matches,Bundesliga
+Frank Onyeka,ng NGA,MF,Augsburg,27-055,1998,20,19,1657,18.4,0,1,1,0,0,0,5,0,1.2,1.2,1.0,2.2,30.0,60,49.0,0.0,0.05,0.05,0.0,0.05,0.07,0.05,0.12,0.07,0.12,Matches,Bundesliga
+Gift Orban,ng NGA,FW,Hoffenheim,22-223,2002,7,3,364,4.0,4,0,4,4,0,0,1,0,2.8,2.8,0.0,2.9,2.0,1,19.0,0.99,0.0,0.99,0.99,0.99,0.7,0.0,0.71,0.7,0.71,Matches,Bundesliga
+Nathan Tella,ng NGA,"FW,MF",Leverkusen,25-235,1999,18,9,812,9.0,1,2,3,1,0,0,0,0,2.1,2.1,0.6,2.6,18.0,19,80.0,0.11,0.22,0.33,0.11,0.33,0.23,0.06,0.29,0.23,0.29,Matches,Bundesliga
+Ola Aina,ng NGA,DF,Nott'ham Forest,28-140,1996,26,26,2261,25.1,2,1,3,2,0,0,2,0,0.6,0.6,0.7,1.3,51.0,88,49.0,0.08,0.04,0.12,0.08,0.12,0.02,0.03,0.05,0.02,0.05,Matches,Premier League
+Joe Aribo,ng NGA,"MF,DF",Southampton,28-219,1996,25,17,1639,18.2,3,0,3,3,0,0,1,0,2.6,2.6,1.5,4.0,31.0,62,56.0,0.16,0.0,0.16,0.16,0.16,0.14,0.08,0.22,0.14,0.22,Matches,Premier League
+Taiwo Awoniyi,ng NGA,FW,Nott'ham Forest,27-197,1997,19,2,257,2.9,1,0,1,1,0,0,0,0,2.0,2.0,0.1,2.1,5.0,5,13.0,0.35,0.0,0.35,0.35,0.35,0.7,0.04,0.74,0.7,0.74,Matches,Premier League
+Calvin Bassey,ng NGA,DF,Fulham,25-056,1999,25,25,2250,25.0,1,0,1,1,0,0,5,0,1.0,1.0,0.1,1.1,19.0,85,11.0,0.04,0.0,0.04,0.04,0.04,0.04,0.0,0.04,0.04,0.04,Matches,Premier League
+Alex Iwobi,ng NGA,"FW,MF",Fulham,28-298,1996,26,26,2184,24.3,7,3,10,7,0,0,1,0,3.6,3.6,5.0,8.6,106.0,158,182.0,0.29,0.12,0.41,0.29,0.41,0.15,0.21,0.35,0.15,0.35,Matches,Premier League
+Wilfred Ndidi,ng NGA,MF,Leicester City,28-071,1996,17,17,1375,15.3,0,4,4,0,0,0,4,0,1.5,1.5,1.4,2.9,10.0,39,51.0,0.0,0.26,0.26,0.0,0.26,0.1,0.09,0.19,0.1,0.19,Matches,Premier League
+Paul Onuachu,ng NGA,FW,Southampton,30-273,1994,16,7,653,7.3,2,1,3,2,0,0,1,0,1.7,1.7,0.4,2.2,6.0,10,19.0,0.28,0.14,0.41,0.28,0.41,0.24,0.06,0.3,0.24,0.3,Matches,Premier League
+Frank Onyeka,ng NGA,MF,Brentford,27-055,1998,2,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Premier League
+Akor Adams,ng NGA,FW,Sevilla,25-027,2000,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,La Liga
+Chidera Ejuke,ng NGA,FW,Sevilla,27-054,1998,15,6,649,7.2,1,1,2,1,0,0,0,0,0.9,0.9,1.5,2.4,58.0,28,71.0,0.14,0.14,0.28,0.14,0.28,0.12,0.21,0.33,0.12,0.33,Matches,La Liga
+Kelechi Iheanacho,ng NGA,FW,Sevilla,28-145,1996,9,5,400,4.4,0,0,0,0,0,0,0,0,1.5,1.5,0.3,1.8,6.0,5,17.0,0.0,0.0,0.0,0.0,0.0,0.33,0.07,0.41,0.33,0.41,Matches,La Liga
+Umar Sadiq,ng NGA,FW,Valencia,28-023,1997,5,1,188,2.1,1,0,1,1,0,0,2,0,0.4,0.4,0.1,0.6,5.0,3,15.0,0.48,0.0,0.48,0.48,0.48,0.21,0.07,0.29,0.21,0.29,Matches,La Liga
+Umar Sadiq,ng NGA,FW,Real Sociedad,28-023,1997,7,2,227,2.5,0,0,0,0,0,0,1,0,0.2,0.2,0.2,0.4,5.0,5,18.0,0.0,0.0,0.0,0.0,0.0,0.09,0.06,0.15,0.09,0.15,Matches,La Liga
+Chrisantus Uche,ng NGA,"FW,MF",Getafe,21-282,2003,24,21,1789,19.9,3,2,5,3,0,0,5,0,3.2,3.2,1.6,4.7,31.0,31,109.0,0.15,0.1,0.25,0.15,0.25,0.16,0.08,0.24,0.16,0.24,Matches,La Liga
+David Akpan Ankeye,ng NGA,"FW,MF",Genoa,23-011,2002,4,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Serie A
+Samuel Chukwueze,ng NGA,"FW,MF",Milan,25-279,1999,20,9,778,8.6,2,0,2,2,0,0,0,0,2.3,2.3,2.2,4.6,41.0,26,102.0,0.23,0.0,0.23,0.23,0.23,0.27,0.26,0.53,0.27,0.53,Matches,Serie A
+Fisayo Dele-Bashiru,ng NGA,"MF,FW",Lazio,24-019,2001,16,9,709,7.9,3,0,3,3,0,0,0,0,1.0,1.0,0.3,1.3,19.0,22,45.0,0.38,0.0,0.38,0.38,0.38,0.12,0.04,0.16,0.12,0.16,Matches,Serie A
+Ademola Lookman,ng NGA,"FW,MF",Atalanta,27-128,1997,20,18,1398,15.5,12,5,17,11,1,1,3,0,7.4,6.6,4.4,11.0,81.0,41,182.0,0.77,0.32,1.09,0.71,1.03,0.48,0.28,0.76,0.43,0.71,Matches,Serie A
+Maduka Okoye,ng NGA,GK,Udinese,25-181,1999,14,14,1260,14.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Serie A
+Akor Adams,ng NGA,FW,Montpellier,25-027,2000,15,13,1075,11.9,3,1,4,3,0,0,2,0,4.3,4.3,1.0,5.3,11.0,6,45.0,0.25,0.08,0.33,0.25,0.33,0.36,0.08,0.44,0.36,0.44,Matches,Ligue 1
+Hafiz Ibrahim,ng NGA,FW,Reims,19-067,2005,1,0,16,0.2,0,0,0,0,0,0,2,1,0.0,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ligue 1
+Hamzat Ojediran,ng NGA,"MF,FW",Lens,21-103,2003,13,1,368,4.1,1,0,1,1,0,0,4,0,0.5,0.5,0.4,0.9,2.0,19,1.0,0.24,0.0,0.24,0.24,0.24,0.11,0.11,0.22,0.11,0.22,Matches,Ligue 1
+Victor Orakpo,ng NGA,FW,Nice,18-256,2006,4,0,36,0.4,0,0,0,0,0,0,0,0,0.3,0.3,0.0,0.3,2.0,1,4.0,0.0,0.0,0.0,0.0,0.0,0.81,0.0,0.81,0.81,0.81,Matches,Ligue 1
+Gift Orban,ng NGA,"FW,DF",Lyon,22-223,2002,3,2,186,2.1,2,0,2,2,0,0,1,0,1.2,1.2,0.0,1.2,1.0,2,12.0,0.97,0.0,0.97,0.97,0.97,0.59,0.01,0.6,0.59,0.6,Matches,Ligue 1
+Gabriel Osho,ng NGA,DF,Auxerre,26-195,1998,15,15,1204,13.4,1,0,1,1,0,0,1,1,0.9,0.9,0.0,0.9,10.0,32,2.0,0.07,0.0,0.07,0.07,0.07,0.06,0.0,0.06,0.06,0.06,Matches,Ligue 1
+Moses Simon,ng NGA,"FW,MF",Nantes,29-228,1995,21,21,1741,19.3,6,7,13,3,3,3,1,0,4.5,2.2,4.7,6.9,110.0,45,165.0,0.31,0.36,0.67,0.16,0.52,0.23,0.25,0.48,0.11,0.36,Matches,Ligue 1
+Babatunde Akinsola,ng NGA,MF,AVS Futebol,21-352,2003,19,5,579,6.4,1,1,2,1,0,0,0,0,0.16,0.16,0.31,0.16,0.31,Matches,,,,,,,,,,,,,Portuguese Primeira Liga
+Bruno Onyemaechi,ng NGA,"DF,MF",Boavista,25-328,1999,18,17,1566,17.4,3,1,4,3,0,0,5,0,0.17,0.06,0.23,0.17,0.23,Matches,,,,,,,,,,,,,Portuguese Primeira Liga
+Zaidu Sanusi,ng NGA,DF,Porto,27-257,1997,1,0,36,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,,,,,,,,,,,,,Portuguese Primeira Liga
+Babajide Akintola,ng NGA,MF,Rizespor,29-043,1996,21,20,1601,17.8,1,5,6,1,0,0,6,0,,,,,,,,0.06,0.28,0.34,0.06,0.34,,,,,,Matches,Turkish Super Lig
+Funsho Bamgboye,ng NGA,MF,Hatayspor,26-047,1999,22,11,1080,12.0,2,0,2,2,0,0,4,0,,,,,,,,0.17,0.0,0.17,0.17,0.17,,,,,,Matches,Turkish Super Lig
+Godfrey Bitok,ng NGA,DF,Gaziantep FK,24-187,2000,2,1,115,1.3,0,0,0,0,0,0,0,0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,Turkish Super Lig
+Anthony Dennis,ng NGA,MF,Göztepe,20-249,2004,19,19,1594,17.7,0,2,2,0,0,0,9,1,,,,,,,,0.0,0.11,0.11,0.0,0.11,,,,,,Matches,Turkish Super Lig
+Anthony Nwakaeme,ng NGA,MF,Trabzonspor,35-341,1989,14,9,973,10.8,1,3,4,1,0,0,2,0,,,,,,,,0.09,0.28,0.37,0.09,0.37,,,,,,Matches,Turkish Super Lig
+Gabriel Obekpa,ng NGA,MF,BB Bodrumspor,20-277,2004,3,0,90,1.0,0,0,0,0,0,0,0,0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,Turkish Super Lig
+David Okereke,ng NGA,"FW,MF",Gaziantep FK,27-180,1997,18,16,1380,15.3,6,2,8,6,0,0,2,0,,,,,,,,0.39,0.13,0.52,0.39,0.52,,,,,,Matches,Turkish Super Lig
+Jonathan Okoronkwo,ng NGA,FW,Hatayspor,21-165,2003,7,0,108,1.2,0,0,0,0,0,0,1,0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,Turkish Super Lig
+Ibrahim Olawoyin,ng NGA,MF,Rizespor,27-086,1997,21,20,1721,19.1,2,5,7,2,0,0,4,1,,,,,,,,0.1,0.26,0.37,0.1,0.37,,,,,,Matches,Turkish Super Lig
+Kenneth Omeruo,ng NGA,DF,Kasımpaşa,31-131,1993,5,1,162,1.8,0,0,0,0,0,0,1,0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,Turkish Super Lig
+Bright Osayi-Samuel,ng NGA,"DF,MF",Fenerbahçe,27-056,1997,16,10,866,9.6,0,0,0,0,0,0,1,0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,Turkish Super Lig
+Victor Osimhen,ng NGA,FW,Galatasaray,26-058,1998,19,17,1467,16.3,14,4,18,9,5,5,3,0,,,,,,,,0.86,0.25,1.1,0.55,0.8,,,,,,Matches,Turkish Super Lig
