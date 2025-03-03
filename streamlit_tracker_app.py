@@ -77,6 +77,12 @@ def plot_goals_assists_matches(df):
     plt.tight_layout()
     return fig
 
+
+
+
+
+
+
 # Main app - Display plots for Nigerian players in the combined data
 st.markdown("<h2 style='text-align: center;'>Goals</h2>", unsafe_allow_html=True)
 st.pyplot(plot_goals(merged_df_nga))
